@@ -1,0 +1,21 @@
+.list{
+    height: 50px;
+    background-color: blueviolet;
+}
+.list-style{
+    list-style-type: none;
+}
+.list-item a{
+    float: left;
+    color: white;
+    padding: 10px;
+}
+.list-item:hover{
+    color: red;
+    font-weight: bold;
+    cursor: pointer;
+}
+.logout{
+    float: right;
+    margin-right: 20px;
+}
